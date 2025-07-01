@@ -3,7 +3,7 @@ How to Contact Xfinity Customer Care Easily? ☎️💬
 
 Need help with your internet, TV, or mobile service? Getting in touch with **Xfinity customer care** is easier than ever — if you know the right way to go about it. Whether you're facing a service outage, billing confusion, activation issue, or device error, **Xfinity support** is available through several reliable channels. 🛠️
 
-.. image:: start.png
+.. image:: care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
